@@ -1,0 +1,10 @@
+C:\Users\dhwp1\source\repos\ActionGame_1\Text\bin\Debug\netstandard2.0\TextRead.deps.json
+C:\Users\dhwp1\source\repos\ActionGame_1\Text\bin\Debug\netstandard2.0\TextRead.dll
+C:\Users\dhwp1\source\repos\ActionGame_1\Text\bin\Debug\netstandard2.0\TextRead.pdb
+C:\Users\dhwp1\source\repos\ActionGame_1\Text\obj\Debug\netstandard2.0\TextRead.csproj.AssemblyReference.cache
+C:\Users\dhwp1\source\repos\ActionGame_1\Text\obj\Debug\netstandard2.0\TextRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhwp1\source\repos\ActionGame_1\Text\obj\Debug\netstandard2.0\TextRead.AssemblyInfoInputs.cache
+C:\Users\dhwp1\source\repos\ActionGame_1\Text\obj\Debug\netstandard2.0\TextRead.AssemblyInfo.cs
+C:\Users\dhwp1\source\repos\ActionGame_1\Text\obj\Debug\netstandard2.0\TextRead.csproj.CoreCompileInputs.cache
+C:\Users\dhwp1\source\repos\ActionGame_1\Text\obj\Debug\netstandard2.0\TextRead.dll
+C:\Users\dhwp1\source\repos\ActionGame_1\Text\obj\Debug\netstandard2.0\TextRead.pdb

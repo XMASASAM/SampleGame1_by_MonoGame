@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/dhwp1/source/repos/ActionGame_1/ActionGame_1_share/Content/File2.spritefont</SourceFile>
+  <SourceTime>2021-10-10T22:50:58.79453+09:00</SourceTime>
+  <DestFile>C:/Users/dhwp1/source/repos/ActionGame_1/ActionGame_1_share/Content/bin/iOS/Content/File2.xnb</DestFile>
+  <DestTime>2021-10-10T22:53:58.6102867+09:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-11T01:17:54+09:00</ImporterTime>
+  <Processor>LocalizedFontProcessor</Processor>
+  <ProcessorTime>2020-08-11T01:17:54+09:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies>
+    <string>C:\Users\dhwp1\source\repos\ActionGame_1\Project_DLL\Properties\Resources.resx</string>
+    <string>C:\Users\dhwp1\source\repos\ActionGame_1\Project_DLL\Properties\Resources.ja-JP.resx</string>
+  </Dependencies>
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

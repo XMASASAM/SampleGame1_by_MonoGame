@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/dhwp1/source/repos/ActionGame_1/ActionGame_1_share/Content/BG.png","C:/Users/dhwp1/source/repos/ActionGame_1/ActionGame_1_share/Content/bin/Android/Content/BG.xnb","TextureProcessor","Texture2DContent",1385,27733,0.2290615
+"C:/Users/dhwp1/source/repos/ActionGame_1/ActionGame_1_share/Content/CommonPeople1_3.png","C:/Users/dhwp1/source/repos/ActionGame_1/ActionGame_1_share/Content/bin/Android/Content/CommonPeople1_3.xnb","TextureProcessor","Texture2DContent",2320,83029,0.0054543
+"C:/Users/dhwp1/source/repos/ActionGame_1/ActionGame_1_share/Content/File.spritefont","C:/Users/dhwp1/source/repos/ActionGame_1/ActionGame_1_share/Content/bin/Android/Content/File.xnb","FontDescriptionProcessor","SpriteFontContent",2008,37922,0.150248
+"C:/Users/dhwp1/source/repos/ActionGame_1/ActionGame_1_share/Content/File2.spritefont","C:/Users/dhwp1/source/repos/ActionGame_1/ActionGame_1_share/Content/bin/Android/Content/File2.xnb","LocalizedFontProcessor","SpriteFontContent",2583,38533,0.424492
+"C:/Users/dhwp1/source/repos/ActionGame_1/ActionGame_1_share/Content/map_room0.txt","C:/Users/dhwp1/source/repos/ActionGame_1/ActionGame_1_share/Content/bin/Android/Content/map_room0.xnb","Processor1","string[]",453,468,0.1773331

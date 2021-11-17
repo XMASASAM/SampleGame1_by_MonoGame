@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/dhwp1/source/repos/ActionGame_1/ActionGame_1_share/Content/map_room0.txt</SourceFile>
+  <SourceTime>2021-11-09T00:55:06.8433723+09:00</SourceTime>
+  <DestFile>C:/Users/dhwp1/source/repos/ActionGame_1/ActionGame_1_share/Content/bin/Windows/map_room0.xnb</DestFile>
+  <DestTime>2021-11-09T02:10:01.8700088+09:00</DestTime>
+  <Importer>Importer1</Importer>
+  <ImporterTime>2021-11-09T01:59:57.2236382+09:00</ImporterTime>
+  <Processor>Processor1</Processor>
+  <ProcessorTime>2021-11-09T01:59:57.2236382+09:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

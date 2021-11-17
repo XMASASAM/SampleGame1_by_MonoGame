@@ -1,0 +1,13 @@
+C:\Users\dhwp1\source\repos\ActionGame_1\Read\obj\Debug\netstandard2.0\Read.csproj.AssemblyReference.cache
+C:\Users\dhwp1\source\repos\ActionGame_1\Read\obj\Debug\netstandard2.0\Read.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhwp1\source\repos\ActionGame_1\Read\obj\Debug\netstandard2.0\Read.AssemblyInfoInputs.cache
+C:\Users\dhwp1\source\repos\ActionGame_1\Read\obj\Debug\netstandard2.0\Read.AssemblyInfo.cs
+C:\Users\dhwp1\source\repos\ActionGame_1\Read\obj\Debug\netstandard2.0\Read.csproj.CoreCompileInputs.cache
+C:\Users\dhwp1\source\repos\ActionGame_1\Read\bin\Debug\netstandard2.0\Read.deps.json
+C:\Users\dhwp1\source\repos\ActionGame_1\Read\bin\Debug\netstandard2.0\Read.dll
+C:\Users\dhwp1\source\repos\ActionGame_1\Read\bin\Debug\netstandard2.0\Read.pdb
+C:\Users\dhwp1\source\repos\ActionGame_1\Read\bin\Debug\netstandard2.0\TextRead.dll
+C:\Users\dhwp1\source\repos\ActionGame_1\Read\bin\Debug\netstandard2.0\TextRead.pdb
+C:\Users\dhwp1\source\repos\ActionGame_1\Read\obj\Debug\netstandard2.0\Read.csproj.CopyComplete
+C:\Users\dhwp1\source\repos\ActionGame_1\Read\obj\Debug\netstandard2.0\Read.dll
+C:\Users\dhwp1\source\repos\ActionGame_1\Read\obj\Debug\netstandard2.0\Read.pdb
